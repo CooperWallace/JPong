@@ -1,6 +1,5 @@
-0------0
-|JPong |
-0------0
+JPong
+=========
 
 So, This is what I have been working off and on for the past little while.
 I put off releasing it to the public for sometime, No clue why.
@@ -13,7 +12,7 @@ Enjoy!
 
 
 Licensing
-
+-----------
 - If there are any issues with Rights please Contact me. -
 
 This game is for Education Purposes.
